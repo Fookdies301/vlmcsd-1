@@ -1,6 +1,9 @@
 # vlmcsd
 update 20170617
 
+The binaries program is in vlmcsd/binaries/，You can choose the right one for you。
+
+
 To view the documentation cd to the directory containing the distribution
 files and type
 
